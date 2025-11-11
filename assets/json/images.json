@@ -1,0 +1,17 @@
+getBingImages([
+    "/th?id=OHR.DunluceIreland_ZH-CN2412229757_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "/th?id=OHR.Castildetierra_ZH-CN6042529770_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "/th?id=OHR.FozdoIguacu2025_ZH-CN3781165595_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "/th?id=OHR.KachinaBridge_ZH-CN3333793502_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "/th?id=OHR.GoremeTurkey_ZH-CN0255739302_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "/th?id=OHR.GoremeTurkey_ZH-CN0255739302_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "/th?id=OHR.ThailandPagodas_ZH-CN1143878296_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "/th?id=OHR.SpaceFlight_EN-US8143075629_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "/th?id=OHR.TulipsWindmill_EN-US8114977846_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "/th?id=OHR.LittleFoxes_EN-US8078019606_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "/th?id=OHR.BlueNaxos_EN-US8006377229_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "/th?id=OHR.LagoaPortugal_EN-US2211601955_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "/th?id=OHR.BeaverDay_EN-US0006495238_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "/th?id=OHR.PeabodyBaltimore_EN-US7933142212_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "/th?id=OHR.GaztelugatxeSunset_EN-US9011894832_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+])
