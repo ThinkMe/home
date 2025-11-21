@@ -193,3 +193,19 @@ document.addEventListener('DOMContentLoaded', function() {
         clearInterval(intervalId);
     });
 });
+
+document.addEventListener('DOMContentLoaded', function() {
+    // 1. 把下面日期改成你“开始躺平”的那一天
+    const targetDate = '2009-01-28';   // ← 改这里，格式 YYYY-MM-DD
+
+    // 2. 计算天数
+    function calcDays() {
+      const msPerDay = 24 * 60 * 60 * 1000;
+      const days = Math.floor((Date.now() - new Date(targetDate)) / msPerDay);
+      return days;
+    }
+
+    // 3. 写进页面
+    document.getElementById('day').textContent =
+      `${calcDays()}`;
+});
